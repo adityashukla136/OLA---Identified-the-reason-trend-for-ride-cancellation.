@@ -27,13 +27,5 @@ The dashboard was built using the following tools and technologies:
 
 Identified the reason & trend for ride cancellation.
 
-
 Overall Dashboard: (https://github.com/adityashukla136/OLA---Identified-the-reason-trend-for-ride-cancellation./blob/main/Overall%20Dashboard.png)
 
-Information of Various types of Vehichles: (https://github.com/adityashukla136/OLA---Identified-the-reason-trend-for-ride-cancellation./blob/main/Info%20of%20various%20Types%20Vehicle.png)
-
-Revenue Details: (https://github.com/adityashukla136/OLA---Identified-the-reason-trend-for-ride-cancellation./blob/main/Revenue%20Details.png)
-
-Cancilations Details: (https://github.com/adityashukla136/OLA---Identified-the-reason-trend-for-ride-cancellation./blob/main/Cancilation%20rate%20(Customers%20and%20Drivers).png)
-
-Ratings by Vehicle's Types: (https://github.com/adityashukla136/OLA---Identified-the-reason-trend-for-ride-cancellation./blob/main/Ratings%20by%20Vehicle%20Type.png)
